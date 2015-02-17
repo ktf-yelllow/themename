@@ -1,2 +1,2 @@
 # themename
-category of theme
+##category of theme
